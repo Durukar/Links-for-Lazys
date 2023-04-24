@@ -17,7 +17,7 @@ JavaScript<br>
 
 Clone este repositório em sua máquina local:
 
-```git clone https://github.com/SEU_USUARIO/links-for-lazys.git```<br>
+```git clone https://github.com/Durukar/links-for-lazys.git```<br>
 Abra o arquivo index.html em seu navegador.
 Comece a adicionar, editar ou remover links conforme sua necessidade.
 
