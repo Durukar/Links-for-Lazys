@@ -1,4 +1,5 @@
 🌐 Links for Lazys
+
 Este é um projeto para armazenar links em um só lugar para facilitar o acesso e a consulta. Além disso, o objetivo é aprimorar as habilidades em HTML5, CSS e JS.
 
 🛠️ Tecnologias utilizadas
